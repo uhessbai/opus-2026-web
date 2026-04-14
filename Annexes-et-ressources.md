@@ -28,6 +28,14 @@
 
 # Ressources et outils utiles
 
+## Tutoriels - documentation
+
+- [Principales commandes dans le terminal mac](https://www.sos-informatique13.com/astuces/mac/liste-des-commandes-terminal-mac) - toutes les commandes principaes pour naviguer sur le terminal 
+- [Tutoriel python video](https://www.youtube.com/playlist?list=PLVUDmbpupCaobTdn2MIqD-DV6AUvEuUll)
+- [Tutoriel python, grosse documentation](https://docs.python.org/fr/3/tutorial/) - le tuto sur la doc officielle, long mais complet
+- [Tutoriel python 2](https://openclassrooms.com/en/courses/7168871-apprenez-les-bases-du-langage-python) - moins long que le premier
+- [Autre tutoriel python mais en anglais](https://www.w3schools.com/python/)
+
 ## Création 3D / Interactive
 
 - [Three.js](https://threejs.org/) — bibliothèque JavaScript pour créer des scènes 3D directement dans le navigateur
