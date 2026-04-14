@@ -26,6 +26,10 @@
 
 ---
 
+# Installer vscode
+
+[Lien de la documentation pour installer](https://code.visualstudio.com/docs/setup/mac#_install-vs-code-on-macos)
+
 # Ressources et outils utiles
 
 ## Tutoriels - documentation
